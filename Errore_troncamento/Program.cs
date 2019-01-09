@@ -16,6 +16,10 @@ namespace Errore_troncamento
             double spazio = 0;
             double ms = 1676;
             double errore_tempo = 0;
+
+            //calcolo dell' tempo errato
+            Console.WriteLine("Calcolo del tempo errato:");
+            Console.WriteLine(" ");
         }
     }
 }

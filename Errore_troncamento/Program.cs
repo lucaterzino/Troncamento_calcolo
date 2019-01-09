@@ -27,6 +27,10 @@ namespace Errore_troncamento
             //calcolo dello spazio
             Console.WriteLine("Calcolo dello spazio:");
             Console.WriteLine(" ");
+            spazio = ms * errore_tempo;
+            Console.WriteLine($"la misura dello spazio è di {spazio}");
+
+            Console.ReadLine();
         }
     }
 }

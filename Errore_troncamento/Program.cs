@@ -24,6 +24,9 @@ namespace Errore_troncamento
             Console.WriteLine($"Il tempo errato è di {errore_tempo}");
             Console.WriteLine(" ");
 
+            //calcolo dello spazio
+            Console.WriteLine("Calcolo dello spazio:");
+            Console.WriteLine(" ");
         }
     }
 }

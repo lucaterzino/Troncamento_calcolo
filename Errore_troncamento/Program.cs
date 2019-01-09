@@ -20,6 +20,9 @@ namespace Errore_troncamento
             //calcolo dell' tempo errato
             Console.WriteLine("Calcolo del tempo errato:");
             Console.WriteLine(" ");
+            errore_tempo = tronc * 100 * 60 * 60 * 10;
+            Console.WriteLine($"Il tempo errato è di {errore_tempo}");
+            Console.WriteLine(" ");
         }
     }
 }

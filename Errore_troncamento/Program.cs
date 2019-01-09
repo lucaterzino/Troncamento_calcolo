@@ -10,8 +10,12 @@ namespace Errore_troncamento
     {
         static void Main(string[] args)
         {
-            
+            //inizializiamo le variabile con double
 
+            double tronc = 0.000000095;
+            double spazio = 0;
+            double ms = 1676;
+            double errore_tempo = 0;
         }
     }
 }
